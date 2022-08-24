@@ -4,7 +4,7 @@
 
   <groupId>aug </groupId>
   <artifactId>aug22</artifactId>
-  <version>v1</version>
+  <version>v1war</version>
 
   <name>Maven</name>
   <url>http://maven.apache.org/</url>
